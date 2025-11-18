@@ -1,0 +1,15 @@
+burpsuite
+
+
+⦁	In repeater,fuzzing is an automated technique used to discover vulnerabilities by sending a large volume of mutated, unexpected, or invalid inputs (known as "fuzz strings") to a web application.
+
+statues codes information :-
+⦁	100 Continue
+⦁	200 OK (successful request)
+⦁	 301 Moved Permanently (resource has a new permanent URI),
+⦁	 302 Found (temporary redirect)
+⦁	 4xx (Client Error) =>  400 Bad Request (invalid request),
+⦁	 404 Not Found (resource not found),
+⦁	 403 Forbidden (permission denied)
+⦁	 5xx (Server Error) =>   500 Internal Server Error (general server error),
+⦁	 503 Service Unavailable (server temporarily unable to handle the request)
